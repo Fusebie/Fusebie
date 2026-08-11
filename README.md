@@ -1,6 +1,4 @@
 ## Hi there 👋
-
-[My Website]('https://fusebie.is-a.dev/')
 <!--
 **Fusebie/Fusebie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
