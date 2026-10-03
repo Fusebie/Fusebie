@@ -6,9 +6,9 @@
 <!-- - 🔭 currently working on ... -->
 <!-- - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ... -->
-- 🌱 I’m currently learning Pixel Art, Advanced Unity C# and Linux...
+- 🌱 I’m currently learning **Pixel Art, Advanced Unity C# and Linux**
 - 👨‍💻 Portfolio [fusebie.is-a.dev/portfolio](https://fusebie.is-a.dev/portfolio.html)
-- 💬 Ask me about Unity, C# or gamedev in general
+- 💬 Ask me about **Unity, C#** or **gamedev** in general
 - ⚡ Fun fact: i love FPS games
 
 <h3 align=left>Connect with me:</h3>
